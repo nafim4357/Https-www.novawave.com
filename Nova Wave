@@ -1,0 +1,200 @@
+# Https-www.novawave.com
+It is a small project by Nafim Chowdhury 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nova Wave👑</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #2980b9, #6dd5fa);
+      color: white;
+    }
+    .section {
+      min-height: 100vh; /* Full screen height for each section */
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 40px 20px;
+      border-bottom: 2px solid rgba(255,255,255,0.3);
+    }
+    h1, h2 {
+      margin: 20px 0;
+    }
+    p {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+    button {
+      padding: 12px 25px;
+      background: orange;
+      border: none;
+      border-radius: 12px;
+      color: white;
+      font-size: 18px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    button:hover {
+      background: #e67e22;
+    }
+    img {
+      width: 200px;
+      border-radius: 15px;
+      margin-top: 20px;
+    }
+    nav {
+      position: fixed;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(0,0,0,0.5);
+      padding: 10px 20px;
+      border-radius: 20px;
+      z-index: 100;
+    }
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation for smooth scroll -->
+  <nav>
+    <a href="#section1">Section 1</a>
+    <a href="#section2">Section 2</a>
+    <a href="#section3">Section 3</a>
+    <a href="#section4">Section 4</a>
+  </nav>
+
+  <!-- Section 1 -->
+  <div class="section" id="section1">
+    <h1>Welcome to Nova Wave</h1>
+    <p>The Revolution of Bangladesh 2025: A New Dawn
+
+Bangladesh has entered a defining chapter in its national history.
+After years of growing dissatisfaction, widespread protests and social movements transformed into what is now known as the 2024–2025 Revolution — a massive uprising that reshaped the nation’s political and social landscape. It was not just a change of power, but a people’s declaration for justice, freedom, and reform.
+
+The Beginning of Hope
+
+For more than a decade, Bangladesh experienced an era of centralized authority, administrative corruption, and restrictions on free expression. Discontent slowly built up among citizens, especially the youth.
+By mid-2024, students, teachers, workers, and ordinary citizens united against what they viewed as an autocratic regime. The growing frustration finally erupted into a historic movement in July 2024, known widely as the July Revolution.
+
+According to international reports, the uprising was a response to the long-term leadership of Prime Minister Sheikh Hasina, whose 15-year rule faced accusations of election manipulation, suppression of dissent, and economic mismanagement. The young generation — fueled by digital activism and social awareness — became the heart of the revolution.
+
+The Uprising and Its Spread
+
+What began as student protests quickly turned into a nationwide call for reform.
+Social media became the main weapon — spreading messages, organizing marches, and documenting police brutality. Thousands filled the streets of Dhaka, Chittagong, and other major cities.
+The demands were clear:
+
+Restore democracy
+
+Ensure transparency
+
+End corruption and political repression
+
+Create fair job opportunities
+
+
+The government’s initial response was violent — mass arrests, internet blackouts, and clashes that resulted in many casualties. Yet, the movement only grew stronger, forcing the regime to lose control. By August 2024, the existing government finally collapsed under pressure.
+
+The Transitional Government
+
+After the fall of the old regime, a transitional government was established in late 2024 under the leadership of Dr. Muhammad Yunus, the Nobel Peace Prize laureate.
+This interim administration promised a “revolution of reform” — focusing not on revenge, but on rebuilding democracy. Key goals included:
+
+Reforming the constitution
+
+Ensuring fair elections
+
+Strengthening the rule of law
+
+Establishing a transparent civil service
+
+
+This marked a turning point — not just a political shift, but a social transformation. For the first time in years, citizens could hope for a more accountable and participatory government.
+
+Challenges and Obstacles
+
+However, revolutions are never without challenges.
+Bangladesh faced numerous issues even after the regime change:
+
+Economic instability: inflation, currency crisis, and foreign reserve shortages.
+
+Political tension: rivalry among emerging political groups.
+
+Security and order: the return of extremist ideologies and social unrest.
+
+
+Reports by organizations like Human Rights Watch and The Dhaka Tribune highlighted that despite optimism, the road to stability remained long and complex. Reforms in the security sector, judiciary, and education system were essential for permanent change.
+
+A New Generation’s Voice
+
+Perhaps the most powerful outcome of the revolution was the rise of Generation Z — a politically aware, digitally active, and fearless youth.
+They no longer see politics as the job of the elite but as a civic duty.
+Students, journalists, and young entrepreneurs started movements for freedom of press, digital justice, and environmental protection.
+This “youth wave” symbolizes the future of Bangladesh — creative, bold, and determined to hold leaders accountable.
+
+The Future Ahead
+
+The Revolution of 2025 is not just a political victory; it is the rebirth of a nation’s conscience.
+Bangladesh now stands at the edge of transformation — its destiny will depend on:
+
+Honest leadership
+
+Citizen participation
+
+Education and awareness
+
+International cooperation
+
+
+If these values are maintained, Bangladesh could become a model of democratic revival in South Asia.
+
+
+Conclusion
+
+The Revolution of Bangladesh 2025 is a story of courage, unity, and renewal.
+It showed the world that even in the face of oppression, ordinary people can stand up and reclaim their nation’s destiny.
+Though challenges remain, this revolution has already ignited a permanent change — in minds, in systems, and in the spirit of the Bangladeshi people.
+
+It was not just a revolution of power — it was a revolution of hope.
+
+</p>
+
+  </div>
+
+  <!-- Section 2 -->
+  <div class="section" id="section2">
+
+    <button onclick="window.open('https://www.cpscbusms.edu.bd', '_blank')">My School</button>
+  </div>
+
+  <!-- Section 3 -->
+  <div class="section" id="section3">
+    <h2>About Me</h2>
+    <p>I am a Student</p>
+  </div>
+
+  <!-- Section 4 -->
+  <div class="section" id="section4">
+    <h2></h2>
+    <p></p>
+  </div>
+
+</body>
+</html>
